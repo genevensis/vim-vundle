@@ -12,6 +12,11 @@ Installing zsh
 curl -L http://install.ohmyz.sh | sh
 ```
 
+Installing Homebrew
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
 Installing vim plugins & other backup files
 ```
 git clone --recursive https://github.com/genevensis/vim.git ~/.vim/
